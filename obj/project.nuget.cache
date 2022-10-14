@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5SqUC9HGcotbMRBnRPV/Hn4ORXjNPQSUzG0ZixI91EQRZhzI6J7wzwgMfOEoChB1H+aYbYXAgusKmUoz3WmSJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TheWa\\RiderProjects\\GraphicalProgramming\\RayLib\\RayLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TheWa\\.nuget\\packages\\raylib-cs\\4.2.0.1\\raylib-cs.4.2.0.1.nupkg.sha512",
+    "C:\\Users\\TheWa\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
